@@ -1,0 +1,8 @@
+[client]
+showErrorDetails = "none"
+
+[server]
+maxUploadSize = 20
+
+[logger]
+level= "info"
