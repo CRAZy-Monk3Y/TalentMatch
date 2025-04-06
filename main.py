@@ -46,7 +46,7 @@ col1,col2=st.columns([1,9])
 with col1:
     st.image("logo.png")
 with col2:
-    st.title("TatlentMatch", anchor=False)
+    st.title("TalentMatch", anchor=False)
 
 # Upload JD
 jd_file = st.file_uploader(
